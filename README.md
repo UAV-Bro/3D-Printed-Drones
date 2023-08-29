@@ -1,2 +1,4 @@
 # 3D-Printed-Drones
-3D Printed Drones Master 
+Welcome to the 3D Printed Drones repository.
+Instructions are grouped by project. 
+Enjoy.
