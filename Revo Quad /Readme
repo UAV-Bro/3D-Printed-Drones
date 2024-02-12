@@ -1,0 +1,23 @@
+Print the Revo quad frame and motor mounts 5 wall 40% infill with LW PLA.  
+Print the landing gear 3 wall 15% infill TPU or LW PLA.
+
+Assembly Instructions.
+Clean prints
+Mount motors and lengthen wires enough to have extra lenght extending through to the ESC, you can cut excess later.
+Cut  25x23 carbon tubes to desired lenght for arms
+Mount motors on motor mounts with locktite
+Epoxy motor assembly to carbon tubes with extended wires.
+Route motor wires through the frame and expoxy carbon tube arms to the frame.
+Use M3 brass inserts where needed in the hub for flight controller mount and VTX mount.
+Mount ESC
+Install XT 90 bulkhead mount and solder to ESC 
+Solder motor wires to ESC 
+Mount FC 
+Mount VTX
+Mount TPU Prints for camera and antenna 
+Configre FC
+Enjoy 
+
+Fly safely
+
+for info hit up bill@momentumdrones.com
