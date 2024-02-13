@@ -17,7 +17,8 @@ Assembly Instructions
 	Route motor wires through the frame and epoxy carbon tube arms to the frame and level motors by eye (easier with props temporarily on).
 	Install M3 brass threaded inserts with soldering iron where needed in the hub for flight controller mount and VTX mount.
 	Mount all-in-one FC/ESC or individual ESC and Flight controller.
-	Install XT 90 bulkhead mount use unlocks or thread lock, and solder 10-12AWG to ESC, don't forget the esc Capacitor keep those leads short.
+	Install XT 90 bulkhead mount use unlocks or thread lock, and solder 10-12AWG to ESC.
+	Don't forget the esc Capacitor keep those leads short.
 	Solder motor wires to ESC. 
 	Mount VTX, connect to FC.
 	Mount TPU Prints for Camera Mount and VTX Antenna Mount. 
