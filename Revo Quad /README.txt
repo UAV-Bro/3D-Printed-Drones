@@ -21,7 +21,8 @@ Assembly Instructions
 	Solder motor wires to ESC. 
 	Mount VTX, connect to FC.
 	Mount TPU Prints for Camera Mount and VTX Antenna Mount. 
-	Install Landing gear legs 8x6mm carbon tubes and Landing Gear Feet with a dab of hot glue or epoxy. (Hot glue works fine if it is snug, so you can replace them after a crash)
+	Install Landing gear legs 8x6mm carbon tubes and Landing Gear Feet with a dab of hot glue or epoxy. 
+	Hot glue works fine if it is snug, so you can replace them if you crash.
 	Configure FC in Betaflight or INAV or whatever you want.
 	Enjoy 
 
