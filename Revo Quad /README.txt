@@ -1,7 +1,15 @@
 
 BOM
-Here are amazon affiliate links.
-[Motors](https://www.amazon.com/iFlight-2806-5-Brushless-Quadcopter-Unibell/dp/B07Y57ZVM7?pd_rd_w=KWvWM&content-id=amzn1.sym.225b4624-972d-4629-9040-f1bf9923dd95%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=225b4624-972d-4629-9040-f1bf9923dd95&pf_rd_r=Y76FPD2P0CMZPRWVGV9R&pd_rd_wg=XdncC&pd_rd_r=ad596116-4fae-42d8-ba51-d9b6fb7a47dd&pd_rd_i=B07Y57ZVM7&linkCode=ll1&tag=uavbro05-20&linkId=c9086c0ed3fe17720be7d4827cd456d7&language=en_US&ref_=as_li_ss_tl) Xing 2806.5 1800kv 
+Here the links to parts, they are amazon affiliate links, that helps me build more stuff and doesn't cost you anything.
+LW-PLA  https://amzn.to/4bDX45o
+Motors Xing 2806.5 1800kv https://amzn.to/3OFWQAC 
+Props Gemfan 7x3.5x3 https://amzn.to/3UDOD3B
+Flight Controller / ESC Stack https://amzn.to/3wm9AWI (or whatever brand you want ESC 50A+ recommended)
+XT-90 Mount https://amzn.to/3HV8dRs
+Any Carbon Fiber Tube 25x23mm. You will cut to your own length, whatever color you want. https://amzn.to/3wdFJQv
+
+
+
 
 
 
