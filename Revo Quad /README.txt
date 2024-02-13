@@ -1,7 +1,8 @@
 
 Print Instructions 
 
-	Print the Revo quad frame and motor mounts 5 wall(0.4 Nozzle), 4  wall (0.6 nozzle), 40% 	infill with LW PLA.  Preferably enclosed.
+	Print the Revo quad frame and motor mounts 5 wall(0.4 Nozzle), 4  wall (0.6 nozzle), 40% infill with LW PLA.  
+	Preferably enclosed.
 	You can use other filaments too. 
 	Print the Landing Gear Feet 3 wall 15% infill TPU or LW PLA.
 	Print the Camera Mount and VTX Antenna Mount in TPU 3 wall 25%infill.
