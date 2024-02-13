@@ -1,0 +1,28 @@
+Print Instructions 
+
+Print the Revo quad frame and motor mounts 5 wall 40% infill with LW PLA.  You can use other filaments too.
+Print the landing gear 3 wall 15% infill TPU or LW PLA.
+Print the Camera Mount and VTX Antenna Mount in TPU 3 wall 25%infill.
+
+Assembly Instructions
+
+Clean prints
+Mount motors with thread lock to the motor mounts.
+Solder wires to extend through the arm to the ESC, you can cut excess later.
+Cut the 25x23 carbon tubes to desired length for arms. Use masking tape around the carbon tube for a clean cut.
+Epoxy motor assembly to carbon tubes with extended wires 
+Route motor wires through the frame and epoxy carbon tube arms to the frame.
+Use M3 brass inserts where needed in the hub for flight controller mount and VTX mount.
+Mount ESC
+Install XT 90 bulkhead mount and solder to ESC 
+Solder motor wires to ESC 
+Mount FC 
+Mount VTX
+Mount TPU Prints for Camera Mount and VTX Antenna Mount. 
+Install Landing gear legs 8x6mm carbon tubes and Landing Gear Feet with a dab of hot glue or epoxy. (Hot glue works fine if it is snug since you might break them in a crash)
+Configure FC
+Enjoy 
+
+Fly safely
+
+for info hit up flyuavbro@gmail.com
