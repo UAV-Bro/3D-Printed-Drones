@@ -53,7 +53,7 @@ Bill of Materials (BOM)
 
 Depending on the FPV system you have you can mount any 20x20 or most 30x30 VTX. 
 
-
+More Camera and Antenna Mounts are coming soon.
 
 
 Post your build to X(twitter) and tag @uavbro 
