@@ -14,7 +14,8 @@ Assembly Instructions
 	Cut the 25x23 carbon tubes to desired length for arms. Use masking tape around the carbon tube for a clean cut.
 	Solder wires to extend through the arm to the ESC, you can cut excess later.
 	Epoxy motor assembly to carbon tubes with extended wires ran through the tube.
-	Route motor wires through the frame and epoxy carbon tube arms to the frame and level motors by eye (easier with props temporarily on).
+	Route motor wires through the frame and epoxy carbon tube arms to the frame and level motors by eye, 
+	(easier with props temporarily on).
 	Install M3 brass threaded inserts with soldering iron where needed in the hub for flight controller mount and VTX mount.
 	Mount all-in-one FC/ESC or individual ESC and Flight controller.
 	Install XT 90 bulkhead mount use unlocks or thread lock, and solder 10-12AWG to ESC.
