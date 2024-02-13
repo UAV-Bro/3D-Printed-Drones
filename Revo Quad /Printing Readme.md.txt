@@ -1,7 +1,7 @@
 
 BOM
 Here are amazon affiliate links.
-[Motors](https://amzn.to/3OFWQAC) Xing 2806.5 1800kv 
+[Motors](https://www.amazon.com/iFlight-2806-5-Brushless-Quadcopter-Unibell/dp/B07Y57ZVM7?pd_rd_w=KWvWM&content-id=amzn1.sym.225b4624-972d-4629-9040-f1bf9923dd95%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=225b4624-972d-4629-9040-f1bf9923dd95&pf_rd_r=Y76FPD2P0CMZPRWVGV9R&pd_rd_wg=XdncC&pd_rd_r=ad596116-4fae-42d8-ba51-d9b6fb7a47dd&pd_rd_i=B07Y57ZVM7&linkCode=ll1&tag=uavbro05-20&linkId=c9086c0ed3fe17720be7d4827cd456d7&language=en_US&ref_=as_li_ss_tl) Xing 2806.5 1800kv 
 
 
 
