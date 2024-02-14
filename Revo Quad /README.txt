@@ -51,6 +51,7 @@ Bill of Materials (BOM)
 	Receiver Radiomaster ELRS RP3 https://amzn.to/3wgvWZS
 	Transmitter Radiomaster Boxer https://amzn.to/3utsg6z
 	Transmitter Battery https://amzn.to/49yHt5a
+	GPS Module https://amzn.to/3wau5FO 
 
 
 Depending on the FPV system you have you can mount any 20x20 or most 30x30 VTX. 
