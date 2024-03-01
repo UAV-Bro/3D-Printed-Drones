@@ -36,27 +36,27 @@ Fly safely
 Bill of Materials (BOM)
 	Here the links to parts, they are amazon affiliate links, that helps me build more stuff and doesn't cost you anything.
 
-	LW-PLA  https://amzn.to/4bDX45o
-	Motors Xing 2806.5 1800kv https://amzn.to/3OFWQAC 
-	Props Gemfan 7x3.5x3 https://amzn.to/3UDOD3B
-	Flight Controller / ESC Stack https://amzn.to/3wm9AWI (or whatever brand you want & ESC 50A+ recommended) 
-	XT-90 Mount https://amzn.to/3HV8dRs
-	Arms Any Carbon Fiber Tube 25x23mm. You will cut to your own length, whatever color you want. https://amzn.to/3wdFJQv
-	Landing Gear Carbon Fiber Tube 8x6mm. You will cut to your own length, whatever color you want. https://amzn.to/3OJAdvj
-	Heat Insert Nuts M3 https://amzn.to/3SFKwSg
-	Battery 6s 4000mah https://amzn.to/3SXuq6L
-	XT90 Plugs for batteries https://amzn.to/3UDlBBa
-	Battery Charger Hota D6 https://amzn.to/4bDXSHs
-	Battery Strap 20x300mm https://amzn.to/3Sxqaui
-	Receiver Radiomaster ELRS RP3 https://amzn.to/3wgvWZS
-	Transmitter Radiomaster Boxer https://amzn.to/3utsg6z
-	Transmitter Battery https://amzn.to/49yHt5a
-	GPS Module https://amzn.to/3wau5FO 
+	LW-PLA  https://amzn.to/431HnRC
+	Motors Xing 2806.5 1800kv https://amzn.to/3IfFuHk
+	Props Gemfan 7x3.5x3 https://amzn.to/3IkYlRg
+	Flight Controller / ESC Stack https://amzn.to/49zN5MX (or whatever brand you want & ESC 50A+ recommended) 
+	XT-90 Mount https://amzn.to/42X0gVu
+	Arms Any Carbon Fiber Tube 25x23mm. You will cut to your own length, whatever color you want. https://amzn.to/49xtNYh
+	Landing Gear Carbon Fiber Tube 8x6mm. You will cut to your own length, whatever color you want. https://amzn.to/3wBQeNE
+	Heat Insert Nuts M3 https://amzn.to/3wyZdiy
+	Battery 6s 4000mah https://amzn.to/4bVCw8s
+	XT90 Plugs for batteries https://amzn.to/3wFbVwo
+	Battery Charger Hota D6 https://amzn.to/433m9T9
+	Battery Strap 20x300mm https://amzn.to/42XpHXc
+	Receiver Radiomaster ELRS RP3 https://amzn.to/42VOr21
+	Transmitter Radiomaster Boxer https://amzn.to/3ThGJfl
+	Transmitter Battery https://amzn.to/3wDFdeM
+	GPS Module https://amzn.to/3SZc19B 
 
 
 Depending on the FPV system you have you can mount any 20x20 or most 30x30 VTX. 
 
-More Camera and Antenna Mounts are coming soon.
+More Camera and Antenna Mounts are coming soon. 
 
 
 Post your build to X(twitter) and tag @uavbro 
